@@ -4,7 +4,7 @@ A fully automated, no-code lead qualification pipeline built with **free tools**
 Specifically designed to qualify **B2B hydrogen industry vendors** and pass only the best-fit leads to a sales CRM.
 
 🔗 [Live Portfolio](https://jerryn-joy.github.io)  
-📂 [Workflow Diagram](./assets/lead_workflow_diagram.png)
+📂 [Workflow Diagram](https://miro.com/app/board/uXjVIqjpoh4=/?share_link_id=861433035153)
 
 ---
 
